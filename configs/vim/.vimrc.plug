@@ -1,0 +1,6 @@
+call plug#begin('~/.vim/plugged')
+
+" Fugetive
+Plug 'jiangmiao/auto-pairs'
+
+call plug#end()
