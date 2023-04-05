@@ -14,7 +14,6 @@ cd ~/kali-setup/scripts
 rm ~/.vimrc
 rm ~/.vimrc.plug
 rm -r ~/.vim
-
 cd ~/kali-setup/configs/vim
 cp .vimrc ~/.vimrc
 cp .vimrc.plug ~/.vimrc.plug
