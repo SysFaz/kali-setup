@@ -22,6 +22,7 @@ mkdir -p ~/.vim/plug
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
 #telebit setup
+cd ~/kali-setup/scripts
 chmod 700 telebit-setup.sh
 echo -e "\n#alias" >> ~/.zshrc
 echo "alias telebit='~/telebit'" >> ~/.zshrc
