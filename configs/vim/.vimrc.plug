@@ -2,5 +2,7 @@ call plug#begin('~/.vim/plugged')
 
 " Auto-pairs
 Plug 'jiangmiao/auto-pairs'
+" Polyaglot
+Plug 'sheerun/vim-polyglot'
 
 call plug#end()
